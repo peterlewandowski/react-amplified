@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplified",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/piotrl/code/PiotrL/Projects/react-amplified/amplify/backend/api/amplified/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
